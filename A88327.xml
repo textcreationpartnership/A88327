@@ -1,0 +1,804 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of such ships and frigots belonging to the Parliament as also of such merchants ships as are set forth to sea, and prepared for the service of the Parliament in this summers expedition, 1647. Together with the names of the captains and commanders of the said ships and frigots.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88327</idno>
+            <idno type="STC">Wing L2412</idno>
+            <idno type="STC">Thomason 669.f.11[13]</idno>
+            <idno type="STC">ESTC R210427</idno>
+            <idno type="EEBO-CITATION">99869229</idno>
+            <idno type="PROQUEST">99869229</idno>
+            <idno type="VID">162664</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162664)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of such ships and frigots belonging to the Parliament as also of such merchants ships as are set forth to sea, and prepared for the service of the Parliament in this summers expedition, 1647. Together with the names of the captains and commanders of the said ships and frigots.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 20. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With decorative border.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ship registers --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_ships">
+            <pb facs="tcp:162664:1" rendition="simple:additions"/>
+            <head>A Liſt of ſuch Ships and Frigots belonging to the Parliament: As alſo of ſuch Merchants Ships as are ſet forth to Sea, and prepared for the Service of the Parliament in this Summers Expedition, 1647. Together with the Names of the Captains and Commanders of the ſaid Ships and Frigots.</head>
+            <div type="part">
+               <p>
+                  <table>
+                     <head>Ships and Frigots part of the Navy.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">
+                           <hi>Ships.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Captains.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">ST. Andrew-</cell>
+                        <cell>
+                           <hi>-William Batten</hi> Viceadmiral, and Commander in chief of the Fleet.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Henrietta Maria-</cell>
+                        <cell>
+                           <hi>-Richard Owen</hi> Rereadmiral.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Lyon-</cell>
+                        <cell>
+                           <hi>-Richard Swanley</hi> Admiral of the Iriſh Seas.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Garland-</cell>
+                        <cell>
+                           <hi>-Henry Bethell.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Happy Entrance-</cell>
+                        <cell>
+                           <hi>-Iohn Bowen.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Antelope-</cell>
+                        <cell>-Sir <hi>George Ayſcue.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Bonaventure-</cell>
+                        <cell>
+                           <hi>-Iohn Crowther</hi> Viceadmiral of the Iriſh Seas.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Leopard-</cell>
+                        <cell>
+                           <hi>-Benjamin Crandley.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Swallow-</cell>
+                        <cell>
+                           <hi>-William Somaſter.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Convertine-</cell>
+                        <cell>
+                           <hi>-Iohn Man.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Mary Roſe-</cell>
+                        <cell>
+                           <hi>-Phineas Pet.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Expedition-</cell>
+                        <cell>
+                           <hi>-Ioſeph Iordan.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Providence-</cell>
+                        <cell>
+                           <hi>-Iohn Stanſby.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Nonſuch-</cell>
+                        <cell>
+                           <hi>-Rich: Willoughby.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Adventure-</cell>
+                        <cell>
+                           <hi>-Thomas Beddall.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Aſſurance-</cell>
+                        <cell>
+                           <hi>-William Pen</hi> Rereadmiral of the Iriſh Seas.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">John-</cell>
+                        <cell>
+                           <hi>-William Swanley.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Fellowſhip-</cell>
+                        <cell>
+                           <hi>-Ionas Reeve.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Globe-</cell>
+                        <cell>
+                           <hi>-Henry Iervoiſe.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Recovery-</cell>
+                        <cell>
+                           <hi>-Robert Dare.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Satisfaction-</cell>
+                        <cell>
+                           <hi>-Robert Moulton</hi> junior.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Preſident-</cell>
+                        <cell>
+                           <hi>-Iohn Pilgrim.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Hector-</cell>
+                        <cell>
+                           <hi>-Edward Elliot.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Warwick-</cell>
+                        <cell>
+                           <hi>-Iames Peacock.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Tenth Whelp-</cell>
+                        <cell>
+                           <hi>-William Brandley.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Cignet-</cell>
+                        <cell>
+                           <hi>-Abr: Wheeler.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Star-</cell>
+                        <cell>
+                           <hi>-Iohn Lockyer.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Creſcent-</cell>
+                        <cell>
+                           <hi>-Iohn Edwyn.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Hinde-</cell>
+                        <cell>
+                           <hi>-Anthony Yong.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Swan-</cell>
+                        <cell>
+                           <hi>-Robert Cleark.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Greyhound-</cell>
+                        <cell>
+                           <hi>-Iohn Coppin.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Welcome-</cell>
+                        <cell>
+                           <hi>-Iohn Green.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Hart-</cell>
+                        <cell>
+                           <hi>-Iohn Bowen.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Weymouth-</cell>
+                        <cell>
+                           <hi>-Iohn Pierce.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Nicodemus.</cell>
+                        <cell>
+                           <hi>-Thomas Pacy.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Roe-buck-</cell>
+                        <cell>
+                           <hi>-Iohn Mildmay.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Lilly-</cell>
+                        <cell>
+                           <hi>-Iohn Lambert.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Increaſe-</cell>
+                        <cell>
+                           <hi>-William Ledgant.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Pelican-</cell>
+                        <cell>
+                           <hi>-Owen Cox.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Robert-</cell>
+                        <cell>
+                           <hi>-William Rew.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">Dove-</cell>
+                        <cell>
+                           <hi>-William Hazard.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Hunter-</cell>
+                        <cell rows="2">Ketches-</cell>
+                        <cell>
+                           <hi>-Robert Nixon.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>43</cell>
+                        <cell>Pryam-</cell>
+                        <cell>
+                           <hi>-Roger Lanning.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Six ſecond rate Ships ordered to be graved, and fit to be ſet forth upon any Emergency.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>Ships.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Captains.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>TRiumph-</cell>
+                        <cell>
+                           <hi>-Robert Moulton.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Rainbow-</cell>
+                        <cell>
+                           <hi>-Bryan Harriſon.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Unicorn-</cell>
+                        <cell>
+                           <hi>-Peter Andrews.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Victory-</cell>
+                        <cell>
+                           <hi>-Nath: Goodlad.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Swift ſure-</cell>
+                        <cell>
+                           <hi>-Tho: Davys.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>Charls-</cell>
+                        <cell>
+                           <hi>-Walter Maynard.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>Merchant Ships.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>Ships.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Captains.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>COnſtant Warwick-</cell>
+                        <cell>
+                           <hi>-Iohn Gilſon.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Diſcovery-</cell>
+                        <cell>
+                           <hi>-Iohn Wills.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Samuel-</cell>
+                        <cell>
+                           <hi>-Matthew Wood.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Roe-buck-</cell>
+                        <cell>
+                           <hi>-Edward Weſt.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Anne Percy-</cell>
+                        <cell>
+                           <hi>-William Hancock.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Magdalen-</cell>
+                        <cell>
+                           <hi>-Iohn Hozier.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Bleſſing-</cell>
+                        <cell>
+                           <hi>-Thomas Wenold.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>William and Daniel-</cell>
+                        <cell>
+                           <hi>-Thomas Cleark.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Truelove-</cell>
+                        <cell>
+                           <hi>-Gervaſe Couchman.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Sampſon-</cell>
+                        <cell>
+                           <hi>-Iohn Lyne.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Anne and Joyce-</cell>
+                        <cell>
+                           <hi>-Thomas Iones.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Jeremy-</cell>
+                        <cell>
+                           <hi>-Iohn Moor.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>Peregrine-</cell>
+                        <cell>
+                           <hi>-Benjamin Trenyman.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Merchants Ships ordered to be graved and fitted for Sea, for the bet<g ref="char:EOLhyphen"/>ter Defence of the Kingdom upon any emergent occaſion, being of Bur<g ref="char:EOLhyphen"/>then from Four hundred to Two hundred Tuns.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>Ships.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Captains.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>SOciety of London-</cell>
+                        <cell>
+                           <hi>-Nicholas Hurleſton.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Rainbow-</cell>
+                        <cell>
+                           <hi>-Elias Iordan.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>New found land merchant-</cell>
+                        <cell>
+                           <hi>-William Peer.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>William and Thomas-</cell>
+                        <cell>
+                           <hi>-Thomas Porter.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Paramour-</cell>
+                        <cell>
+                           <hi>-Tho: Midleton.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Thomas Bonaventure-</cell>
+                        <cell>
+                           <hi>-George Hughs.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Civil Society-</cell>
+                        <cell>
+                           <hi>-Iohn Shawe.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Anne Bonaventure-</cell>
+                        <cell>
+                           <hi>-William Spencer.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Greenfield-</cell>
+                        <cell>
+                           <hi>-Henry Powell.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Merchant-</cell>
+                        <cell>
+                           <hi>-Nehemiah Bourn.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>London Merchant-</cell>
+                        <cell>
+                           <hi>-Anthony Newport.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>May-flower-</cell>
+                        <cell>
+                           <hi>-Thomas Bell.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Beavor-</cell>
+                        <cell>
+                           <hi>-Edward Coyte.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Four Siſters-</cell>
+                        <cell>
+                           <hi>-Roger Harman.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Confidence-</cell>
+                        <cell>
+                           <hi>-Charls Thorogood.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Hector-</cell>
+                        <cell>
+                           <hi>-Samuel Stanton.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Giles-</cell>
+                        <cell>
+                           <hi>-Henry Toop.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Content-</cell>
+                        <cell>
+                           <hi>-Godfrey Iones.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Elizabeth-</cell>
+                        <cell>
+                           <hi>-William Stag.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>James-</cell>
+                        <cell>
+                           <hi>-Edmond Button.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Johns Adventure-</cell>
+                        <cell>
+                           <hi>-Euſtace Smith.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>George Bonaventure-</cell>
+                        <cell>
+                           <hi>-Iohn Cramp.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Elizabeth-</cell>
+                        <cell>
+                           <hi>-William Coppin.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Loyalty-</cell>
+                        <cell>
+                           <hi>-Iohn Durſon.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>May-flower-</cell>
+                        <cell>
+                           <hi>-Iohn Cole.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Exeter Merchant-</cell>
+                        <cell>
+                           <hi>-Edward Belitha.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>Benjamin-</cell>
+                        <cell>
+                           <hi>-George Clearkson.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons, <hi>May</hi> 20. 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
